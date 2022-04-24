@@ -56,7 +56,6 @@ public class MovieController {
 
             return -1;
         }
-
     }
 
     @DeleteMapping("{id}")
